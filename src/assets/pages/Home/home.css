@@ -1,0 +1,9 @@
+.Product-page {
+    .container {
+        width: 84%;
+        margin: 0 auto;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1rem;
+    }
+}
